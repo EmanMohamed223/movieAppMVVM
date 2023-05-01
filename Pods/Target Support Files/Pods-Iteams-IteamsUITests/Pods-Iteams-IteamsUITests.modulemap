@@ -1,0 +1,6 @@
+framework module Pods_Iteams_IteamsUITests {
+  umbrella header "Pods-Iteams-IteamsUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
